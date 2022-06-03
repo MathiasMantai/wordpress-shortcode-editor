@@ -1,0 +1,14 @@
+.shortcode-editor-admin-panel-main {
+
+    background-color: #fff;
+}
+
+.shortcode-editor-admin-panel-table {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.test {
+    border: 1px solid rgba(0,0,0,0.2);
+}
